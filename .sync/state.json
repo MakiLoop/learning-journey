@@ -1358,6 +1358,78 @@
       "target_path": "人工智能/大语言模型/2025-10-27-LLM微调.md",
       "status": "published",
       "image_count": 9
+    },
+    "yuque:doc:242323423": {
+      "doc_id": 242323423,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "kwkk01ngyz5iie1d",
+      "source_title": "LLM性能评估指标（Model evaluation metrics）",
+      "created_at": "2025-10-28T04:52:07.000Z",
+      "updated_at": "2025-10-28T05:18:07.000Z",
+      "content_hash": "4b6ebe3b28ee918e6c04093897a1cc3b9de5a55be0ffc009868a598583f39b2b",
+      "target_path": "人工智能/大语言模型/2025-10-28-LLM性能评估指标.md",
+      "status": "published",
+      "image_count": 4
+    },
+    "yuque:doc:242325289": {
+      "doc_id": 242325289,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "gtp83agealygvubz",
+      "source_title": "RLHF 人类反馈的强化学习，Reinforcement Learning From Human Feedback",
+      "created_at": "2025-10-28T05:19:09.000Z",
+      "updated_at": "2025-11-11T13:18:59.000Z",
+      "content_hash": "cbc5e0057ed24625ed852513d93fdd4cc58a5b6c74b823671ac4027f5011a931",
+      "target_path": "人工智能/大语言模型/2025-10-28-RLHF人类反馈强化学习.md",
+      "status": "published",
+      "image_count": 5
+    },
+    "yuque:doc:242131720": {
+      "doc_id": 242131720,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "iy9wpmgytol3b5qt",
+      "source_title": "机器学习概述",
+      "created_at": "2025-10-27T01:16:16.000Z",
+      "updated_at": "2025-10-27T01:16:17.000Z",
+      "content_hash": "d8d6e199e053ac12b363fd6422551bf084220d8e0aa8a3deb278c7adc8f7e09f",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 0
+    },
+    "yuque:doc:242131723": {
+      "doc_id": 242131723,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "goose84xb11hr0xu",
+      "source_title": "线性回归模型",
+      "created_at": "2025-10-27T01:16:17.000Z",
+      "updated_at": "2025-10-27T01:36:24.000Z",
+      "content_hash": "a3490cfef02d4df304310f37113eed245a01859451fe8d40720751708dcf21cf",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 7
+    },
+    "yuque:doc:242131722": {
+      "doc_id": 242131722,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "cztg02ic9bra2eg0",
+      "source_title": "逻辑回归模型",
+      "created_at": "2025-10-27T01:16:17.000Z",
+      "updated_at": "2025-10-27T01:37:37.000Z",
+      "content_hash": "8b11a46704469f55189efffb45aa777aad59b755adfdfa32b1541b443260b947",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 7
+    },
+    "yuque:doc:242131721": {
+      "doc_id": 242131721,
+      "source_namespace": "mubuzhuanjing-ow8jw/px00ou",
+      "source_slug": "sem5ic1vue1mq6cn",
+      "source_title": "神经网络模型",
+      "created_at": "2025-10-27T01:16:17.000Z",
+      "updated_at": "2025-10-27T01:16:17.000Z",
+      "content_hash": "6f456899af8c04b391fb70ec1eeef856249d52a815a290f9d6a7c4e377b4b50d",
+      "target_path": "人工智能/机器学习/2025-03-20-机器学习基础与回归模型.md",
+      "status": "published_duplicate",
+      "image_count": 2
     }
   }
 }
