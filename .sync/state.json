@@ -2,6 +2,18 @@
   "schema_version": 1,
   "last_successful_scan": "2026-07-19T05:25:07Z",
   "documents": {
+    "yuque:doc:289499715": {
+      "doc_id": 289499715,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "ekg4arkz3yh88b9k",
+      "source_title": "第四章第一节-软件测试方法-黑盒测试",
+      "created_at": "2026-10-25T02:14:36.000Z",
+      "updated_at": "2026-10-25T04:59:47.000Z",
+      "content_hash": "cca47287caf79ce58ee89441e9e9c362fce0d070de4e0d404cf320c63839bff9",
+      "target_path": "计算机基础/软件工程/软件测试/2026-10-25-第四章第一节：软件测试方法——黑盒测试.md",
+      "status": "published",
+      "image_count": 36
+    },
     "yuque:doc:278100411": {
       "doc_id": 278100411,
       "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
