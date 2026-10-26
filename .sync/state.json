@@ -2,6 +2,18 @@
   "schema_version": 1,
   "last_successful_scan": "2026-07-19T05:25:07Z",
   "documents": {
+    "yuque:doc:289534683": {
+      "doc_id": 289534683,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "fie5n84wcfefh5rg",
+      "source_title": "Week5：服务监控与容灾",
+      "created_at": "2026-10-25T12:24:35.000Z",
+      "updated_at": "2026-10-26T13:00:53.000Z",
+      "content_hash": "2e877a2b0565427f2da16168872bcda80ffa8f729b39fa2bd0a3db25b7cdc417",
+      "target_path": "计算机基础/微服务与分布式架构/2026-10-25-Week5：服务监控与容灾.md",
+      "status": "published",
+      "image_count": 1
+    },
     "yuque:doc:289508679": {
       "doc_id": 289508679,
       "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
