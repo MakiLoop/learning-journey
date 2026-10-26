@@ -2,6 +2,18 @@
   "schema_version": 1,
   "last_successful_scan": "2026-07-19T05:25:07Z",
   "documents": {
+    "yuque:doc:289508679": {
+      "doc_id": 289508679,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "unaongzi6cg1d90i",
+      "source_title": "第四章第二节-软件测试方法-白盒测试",
+      "created_at": "2026-10-25T05:01:51.000Z",
+      "updated_at": "2026-10-26T03:04:09.000Z",
+      "content_hash": "15d81aae4913f006d2e2073b0f2e6a870256df24ca84c64bcf976a9db50f661b",
+      "target_path": "计算机基础/软件工程/软件测试/2026-10-25-第四章第二节：软件测试方法——白盒测试.md",
+      "status": "published",
+      "image_count": 26
+    },
     "yuque:doc:289532533": {
       "doc_id": 289532533,
       "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
