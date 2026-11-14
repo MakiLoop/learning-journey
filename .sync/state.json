@@ -2,6 +2,18 @@
   "schema_version": 1,
   "last_successful_scan": "2026-07-19T05:25:07Z",
   "documents": {
+    "yuque:doc:291922278": {
+      "doc_id": 291922278,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "mnsa8s74gsxgt4pc",
+      "source_title": "读论文：1. Attention is All you Need",
+      "created_at": "2026-11-14T02:30:53.000Z",
+      "updated_at": "2026-11-14T08:41:33.000Z",
+      "content_hash": "8909fd6352f8b263f33cd7ddd317ad9ac179c6cef99365ec1ed611c4c2829201",
+      "target_path": "论文阅读笔记/2026-11-14-读论文【1】Attention-Is-All-You-Need.md",
+      "status": "published",
+      "image_count": 22
+    },
     "yuque:doc:289534683": {
       "doc_id": 289534683,
       "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",

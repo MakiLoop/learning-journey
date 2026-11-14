@@ -120,6 +120,10 @@ $$
 
 ![](assets/242142953/e2116b59363b.png)
 
+## 论文阅读
+
+- [读论文【1】Attention Is All You Need](../../论文阅读笔记/2026-11-14-读论文【1】Attention-Is-All-You-Need.md)
+
 <!-- learning-journey:update-history:start -->
 ## 更新记录
 

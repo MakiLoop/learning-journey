@@ -14,3 +14,7 @@
 - [提示词工程 Prompt Engineering](2025-10-27-提示词工程.md)
 - [生成式 AI 与 LLM 概述](2025-10-27-生成式AI与LLM概述.md)
 - [Transformer 架构](2025-10-27-Transformer架构.md)
+
+## 论文阅读
+
+- [读论文【1】Attention Is All You Need](../../论文阅读笔记/2026-11-14-读论文【1】Attention-Is-All-You-Need.md)
