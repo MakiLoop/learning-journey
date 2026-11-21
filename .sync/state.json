@@ -2,6 +2,18 @@
   "schema_version": 1,
   "last_successful_scan": "2026-07-19T05:25:07Z",
   "documents": {
+    "yuque:doc:292097251": {
+      "doc_id": 292097251,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "czcsxvv6dait5y72",
+      "source_title": "第五章：单元测试与集成测试",
+      "created_at": "2026-11-16T00:49:28.000Z",
+      "updated_at": "2026-11-21T11:14:17.000Z",
+      "content_hash": "5bc00cc2f2c5d35db362805c2af1f661852c93a583190b6ffc5cd2e8def70c6c",
+      "target_path": "计算机基础/软件工程/软件测试/2026-11-16-第五章：单元测试与集成测试.md",
+      "status": "published",
+      "image_count": 12
+    },
     "yuque:doc:292421755": {
       "doc_id": 292421755,
       "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
