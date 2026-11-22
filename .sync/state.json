@@ -2,6 +2,18 @@
   "schema_version": 1,
   "last_successful_scan": "2026-07-19T05:25:07Z",
   "documents": {
+    "yuque:doc:292097282": {
+      "doc_id": 292097282,
+      "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
+      "source_slug": "zledlfrw0d41wg61",
+      "source_title": "第六章：系统测试，回归测试，精准测试",
+      "created_at": "2026-11-16T00:50:00.000Z",
+      "updated_at": "2026-11-22T05:23:58.000Z",
+      "content_hash": "7d8c4d02a41965c5e9306a18a0c3d30d2568227249fb5de91942552a7f1bf312",
+      "target_path": "计算机基础/软件工程/软件测试/2026-11-16-第六章：系统测试，回归测试，精准测试.md",
+      "status": "published",
+      "image_count": 3
+    },
     "yuque:doc:292097251": {
       "doc_id": 292097251,
       "source_namespace": "mubuzhuanjing-ow8jw/sshmn5",
